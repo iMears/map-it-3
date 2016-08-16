@@ -12,6 +12,12 @@
  *
  */
 
+// Vendor stylesheets
 @import "bootstrap-sprockets";
 @import "bootstrap";
-@import "statuses"
+@import "font-awesome";
+
+// App stylesheets
+@import "statuses";
+@import "main";
+@import "buttons";

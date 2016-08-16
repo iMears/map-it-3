@@ -1,0 +1,14 @@
+@import "vars";
+
+.btn-pink {
+  background-color: $primary-color;
+  color: #FFFFFF;
+  transition: 0.2s;
+}
+
+.btn-pink:hover {
+  color: $primary-color;
+  border: 1px solid $primary-color;
+  background: #FFFFFF;
+  transition: 0.2s;
+}
